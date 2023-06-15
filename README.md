@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg)
+![MasterHead](https://user-images.githubusercontent.com/40739871/218845073-320f6a91-03a3-447e-a887-067fd6f9a91b.png)
 
 <h1 align="center">Hi 👋, I'm Tahi Guzmán</h1>
 <h3 align="center">A passionate backend Java developer from Mexico</h3>
